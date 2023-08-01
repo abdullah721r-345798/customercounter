@@ -1,7 +1,7 @@
 import streamlit as st
 
 import sys
-sys.path.append('./ultralytics/yolo')
+sys.path.append('./ultralytics/yolov5')
 
 import torchvision
 import torch
