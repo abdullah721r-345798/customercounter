@@ -1,6 +1,6 @@
 
 
-import torch
+import torchvision
 
 
 
