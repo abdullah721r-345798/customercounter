@@ -2,7 +2,7 @@ import streamlit as st
 
 import torchvision
 import torch
-
+import yolov5
 
 
 # Model
