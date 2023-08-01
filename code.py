@@ -1,5 +1,10 @@
 import streamlit as st
 
+import sys
+sys.path.append('./ultralytics/yolo')
+
+from utils.checks import check_requirements
+
 import torchvision
 import torch
 
